@@ -106,7 +106,7 @@ To use the application,
   - View saved books
   - Delete saved books
 ```
-- The application is deployed on Heroku. Visit the live website by [clicking here](https://skhai77-0c7c047bfdb5.herokuapp.com/).
+- The application is deployed on Heroku. Visit the live website by [clicking here](https://skhai77-google-books-search.herokuapp.com/).
 
 
 ## Screenshots
