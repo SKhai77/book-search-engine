@@ -98,6 +98,7 @@ To use the application,
 ```
 
 - Then, test all the functions and features.
+
 ```md
 - Create an account
 - Login:
@@ -106,8 +107,8 @@ To use the application,
   - View saved books
   - Delete saved books
 ```
-- The application is deployed on Heroku. Visit the live website by [clicking here](https://skhai77-google-books-search.herokuapp.com/).
 
+- The application is deployed on Heroku. Visit the live website by [clicking here](https://skhai77-book-search-68bcdb67366a.herokuapp.com/).
 
 ## Screenshots
 
@@ -115,11 +116,9 @@ The following image shows the book search results with a "`Save this Book!`" but
 
 ![Search Books Screenshot](./client/src/assets/screenshots/search-books.png)
 
-
 The following image shows the "`Save this Book!`" button is clicked for saving books as the button is changed to `This book has already been saved!`:
 
 ![Save Books Screenshot](./client/src/assets/screenshots/save-books.png)
-
 
 The following image shows the view of saved books under "`See Your Books`" menu:
 
