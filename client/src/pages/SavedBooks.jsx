@@ -8,7 +8,7 @@ import { GET_ME } from "../utils/queries";
 
 const SavedBooks = () => {
   // Use useQuery to execute the GET_ME query on load
-  const [loading, data] = useQuery(GET_ME);
+  const { loading, data } = useQuery(GET_ME);
 
   // Use useMutation to execute the REMOVE_BOOK mutation
   const [removeBook] = useMutation(REMOVE_BOOK);
