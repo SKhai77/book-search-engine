@@ -1,4 +1,4 @@
-# MERN: Google Books Search Engine
+# MERN: Books Search Engine
 
 ## User Story
 
